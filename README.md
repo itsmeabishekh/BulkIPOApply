@@ -15,8 +15,13 @@ After installation Run below commands:
 termux-setup-storage
 ```
 ## Step 3: Update and Upgrade 
+1)Update
 ```
-apt update && upgrade
+apt update
+```
+2)Upgrade
+```
+apt upgrade
 ```
 **Note**: Enter `y` if processing stop
 ## Step 4: Install Git
@@ -38,7 +43,7 @@ git clone https://github.com/adars124/BulkCLI.git
 ```
 **Note**: Enter `y` if processing stop
 
-**Then go to BulCLI Directory using below command:**
+**Then go to BulkCLI Directory using below command:**
 ```
 cd BulkCLI
 ```
