@@ -32,7 +32,7 @@ pkg install git
 
 ## Step 5: Install Python
 ```
-pkg install python
+pkg install python3
 ```
 **Note**: Enter `y` if processing stop
 
