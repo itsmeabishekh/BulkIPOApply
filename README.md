@@ -38,6 +38,11 @@ git clone https://github.com/adars124/BulkCLI.git
 ```
 **Note**: Enter `y` if processing stop
 
+**Then go to BulCLI Directory using below command:**
+```
+cd BulkCLI
+```
+
 ## Step 7: Install the requirements
 Then, navigate to the folder where you have cloned this repo and install all the requirements using:
 ```
